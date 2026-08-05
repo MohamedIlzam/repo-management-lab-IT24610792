@@ -1,0 +1,7 @@
+Repository Management Lab
+
+This repository is used for demonstrating Git repository management practices:
+- Branch creation and management
+- Feature development
+- Merging branches
+- Conflict resolution
