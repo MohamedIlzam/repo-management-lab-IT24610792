@@ -5,3 +5,4 @@ This repository is used for demonstrating Git repository management practices:
 - Feature development
 - Merging branches
 - Conflict resolution
+- Pull Request (PR) workflow on GitHub
